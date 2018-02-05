@@ -25,7 +25,7 @@ SECRET_KEY = 'gp=)5w^%e)m^^a=*tb@qed-f5$8g6kw9#j0s09*46b^ncm1_1+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'www.ftconsult1.com']
 
 
 # Application definition
